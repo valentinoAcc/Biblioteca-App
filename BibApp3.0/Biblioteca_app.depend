@@ -1,0 +1,810 @@
+# depslib dependency file v1.0
+1608588529 source:c:\users\escritorio\desktop\poo\biblioteca_app\main.cpp
+	<iostream>
+	"Ejemplar.h"
+	"Libro.h"
+	"Biblioteca.h"
+
+1608587847 c:\users\escritorio\desktop\poo\biblioteca_app\include\ejemplar.h
+	<string>
+	"Fecha.h"
+
+1608545294 c:\users\escritorio\desktop\poo\biblioteca_app\include\fecha.h
+	<iostream>
+
+1608587036 c:\users\escritorio\desktop\poo\biblioteca_app\include\libro.h
+	<Ejemplar.h>
+	"Persona.h"
+	<string>
+	"Fecha.h"
+
+1608025552 c:\users\escritorio\desktop\poo\biblioteca_app\include\persona.h
+	<iostream>
+	"Ubicacion.h"
+
+1607956010 c:\users\escritorio\desktop\poo\biblioteca_app\include\ubicacion.h
+	<iostream>
+
+1608230336 source:c:\users\escritorio\desktop\poo\biblioteca_app\src\alquiler.cpp
+	"Alquiler.h"
+
+1608233178 c:\users\escritorio\desktop\poo\biblioteca_app\include\alquiler.h
+	"Fecha.h"
+	"Persona.h"
+	<iostream>
+	<vector>
+	<ctime>
+
+1608582894 source:c:\users\escritorio\desktop\poo\biblioteca_app\src\apunte.cpp
+	"Apunte.h"
+
+1608583772 c:\users\escritorio\desktop\poo\biblioteca_app\include\apunte.h
+	<Ejemplar.h>
+
+1608588538 source:c:\users\escritorio\desktop\poo\biblioteca_app\src\biblioteca.cpp
+	"Biblioteca.h"
+	<iterator>
+
+1608588493 c:\users\escritorio\desktop\poo\biblioteca_app\include\biblioteca.h
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<iostream>
+	"Ejemplar.h"
+	"Ubicacion.h"
+	"Persona.h"
+	"Alquiler.h"
+
+1607655626 source:c:\users\escritorio\desktop\poo\biblioteca_app\src\ejemplar.cpp
+	"Ejemplar.h"
+
+1608545474 source:c:\users\escritorio\desktop\poo\biblioteca_app\src\fecha.cpp
+	"Fecha.h"
+
+1608588578 source:c:\users\escritorio\desktop\poo\biblioteca_app\src\libro.cpp
+	"Libro.h"
+
+1608025552 source:c:\users\escritorio\desktop\poo\biblioteca_app\src\persona.cpp
+	"Persona.h"
+
+1607956046 source:c:\users\escritorio\desktop\poo\biblioteca_app\src\ubicacion.cpp
+	"Ubicacion.h"
+
+1609091917 source:c:\users\valen\desktop\biblioteca_app 1.2\main.cpp
+	<iostream>
+	"Ejemplar.h"
+	"Libro.h"
+	"Biblioteca.h"
+	"Menu.h"
+
+1608605546 c:\users\valen\desktop\biblioteca_app 1.2\include\ejemplar.h
+	<string>
+	"Fecha.h"
+
+1608527294 c:\users\valen\desktop\biblioteca_app 1.2\include\fecha.h
+	<iostream>
+
+1608569036 c:\users\valen\desktop\biblioteca_app 1.2\include\libro.h
+	<Ejemplar.h>
+	"Persona.h"
+	<string>
+	"Fecha.h"
+
+1608666004 c:\users\valen\desktop\biblioteca_app 1.2\include\persona.h
+	<iostream>
+	"Ubicacion.h"
+	<vector>
+
+1607938010 c:\users\valen\desktop\biblioteca_app 1.2\include\ubicacion.h
+	<iostream>
+
+1609093629 c:\users\valen\desktop\biblioteca_app 1.2\include\biblioteca.h
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<iostream>
+	"Ejemplar.h"
+	"Ubicacion.h"
+	"Persona.h"
+	"Alquiler.h"
+
+1609084856 c:\users\valen\desktop\biblioteca_app 1.2\include\alquiler.h
+	"Fecha.h"
+	"Persona.h"
+	<iostream>
+	<vector>
+	<ctime>
+
+1609084856 source:c:\users\valen\desktop\biblioteca_app 1.2\src\alquiler.cpp
+	"Alquiler.h"
+
+1608661467 source:c:\users\valen\desktop\biblioteca_app 1.2\src\apunte.cpp
+	"Apunte.h"
+
+1608661383 c:\users\valen\desktop\biblioteca_app 1.2\include\apunte.h
+	<Ejemplar.h>
+
+1609093687 source:c:\users\valen\desktop\biblioteca_app 1.2\src\biblioteca.cpp
+	"Biblioteca.h"
+	<iterator>
+
+1607637626 source:c:\users\valen\desktop\biblioteca_app 1.2\src\ejemplar.cpp
+	"Ejemplar.h"
+
+1608527474 source:c:\users\valen\desktop\biblioteca_app 1.2\src\fecha.cpp
+	"Fecha.h"
+
+1608662093 source:c:\users\valen\desktop\biblioteca_app 1.2\src\libro.cpp
+	"Libro.h"
+
+1608007552 source:c:\users\valen\desktop\biblioteca_app 1.2\src\persona.cpp
+	"Persona.h"
+
+1607938046 source:c:\users\valen\desktop\biblioteca_app 1.2\src\ubicacion.cpp
+	"Ubicacion.h"
+
+1609093784 c:\users\valen\desktop\biblioteca_app 1.2\include\menu.h
+	"Biblioteca.h"
+	"Persona.h"
+	"Fecha.h"
+	"Ubicacion.h"
+	"Ejemplar.h"
+	<iostream>
+	<cstdlib>
+
+1609093784 source:c:\users\valen\desktop\biblioteca_app 1.2\src\menu.cpp
+	"Menu.h"
+
+1608661475 source:c:\users\valen\desktop\biblioteca_app 1.2\src\dvd.cpp
+	"Dvd.h"
+
+1608661368 c:\users\valen\desktop\biblioteca_app 1.2\include\dvd.h
+	<Ejemplar.h>
+
+1608661480 source:c:\users\valen\desktop\biblioteca_app 1.2\src\revista.cpp
+	"Revista.h"
+
+1608661365 c:\users\valen\desktop\biblioteca_app 1.2\include\revista.h
+	<Ejemplar.h>
+
+1609164243 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\main.cpp
+	<iostream>
+	"Ejemplar.h"
+	"Libro.h"
+	"Biblioteca.h"
+	"Menu.h"
+
+1608587546 c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\include\ejemplar.h
+	<string>
+	"Fecha.h"
+
+1608509294 c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\include\fecha.h
+	<iostream>
+
+1608551036 c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\include\libro.h
+	<Ejemplar.h>
+	"Persona.h"
+	<string>
+	"Fecha.h"
+
+1609173214 c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\include\persona.h
+	<iostream>
+	"Ubicacion.h"
+	<vector>
+
+1607920010 c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\include\ubicacion.h
+	<iostream>
+
+1609171902 c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\include\biblioteca.h
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<iostream>
+	"Ejemplar.h"
+	"Ubicacion.h"
+	"Persona.h"
+	"Alquiler.h"
+
+1609103320 c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\include\alquiler.h
+	"Fecha.h"
+	"Persona.h"
+	<iostream>
+	<vector>
+	<ctime>
+
+1609172757 c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\include\menu.h
+	"Biblioteca.h"
+	"Persona.h"
+	"Fecha.h"
+	"Ubicacion.h"
+	"Ejemplar.h"
+	"Libro.h"
+	"Revista.h"
+	"Dvd.h"
+	"Apunte.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1609066856 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\src\alquiler.cpp
+	"Alquiler.h"
+
+1609166508 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\src\apunte.cpp
+	"Apunte.h"
+
+1609166730 c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\include\apunte.h
+	<Ejemplar.h>
+
+1609173847 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\src\biblioteca.cpp
+	"Biblioteca.h"
+	<iterator>
+
+1609166067 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\src\dvd.cpp
+	"Dvd.h"
+
+1609166468 c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\include\dvd.h
+	<Ejemplar.h>
+
+1607619626 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\src\ejemplar.cpp
+	"Ejemplar.h"
+
+1608509474 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\src\fecha.cpp
+	"Fecha.h"
+
+1608644092 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\src\libro.cpp
+	"Libro.h"
+
+1609173919 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\src\menu.cpp
+	"Menu.h"
+
+1609174023 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\src\persona.cpp
+	"Persona.h"
+
+1609165972 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\src\revista.cpp
+	"Revista.h"
+
+1609165961 c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\include\revista.h
+	<Ejemplar.h>
+
+1609173988 source:c:\users\escritorio\desktop\bib app 2.0-20201227t185809z-001\bib app 2.0\biblioteca_app 1.2\src\ubicacion.cpp
+	"Ubicacion.h"
+
+1609220533 source:c:\users\valen\desktop\bibapp 2.1\main.cpp
+	<iostream>
+	"Ejemplar.h"
+	"Libro.h"
+	"Biblioteca.h"
+	"Menu.h"
+	<cstdlib>
+
+1608569546 c:\users\valen\desktop\bibapp 2.1\include\ejemplar.h
+	<string>
+	"Fecha.h"
+
+1609219233 c:\users\valen\desktop\bibapp 2.1\include\fecha.h
+	<iostream>
+	<ctime>
+
+1608533036 c:\users\valen\desktop\bibapp 2.1\include\libro.h
+	<Ejemplar.h>
+	"Persona.h"
+	<string>
+	"Fecha.h"
+
+1609210480 c:\users\valen\desktop\bibapp 2.1\include\persona.h
+	<iostream>
+	"Ubicacion.h"
+	<vector>
+
+1607902010 c:\users\valen\desktop\bibapp 2.1\include\ubicacion.h
+	<iostream>
+
+1609210004 c:\users\valen\desktop\bibapp 2.1\include\biblioteca.h
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<iostream>
+	"Ejemplar.h"
+	"Ubicacion.h"
+	"Persona.h"
+	"Alquiler.h"
+
+1609213534 c:\users\valen\desktop\bibapp 2.1\include\alquiler.h
+	"Fecha.h"
+	"Persona.h"
+	<iostream>
+	<vector>
+	<ctime>
+
+1609210053 c:\users\valen\desktop\bibapp 2.1\include\menu.h
+	"Biblioteca.h"
+	"Persona.h"
+	"Fecha.h"
+	"Ubicacion.h"
+	"Ejemplar.h"
+	"Libro.h"
+	"Revista.h"
+	"Dvd.h"
+	"Apunte.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1609147960 c:\users\valen\desktop\bibapp 2.1\include\revista.h
+	<Ejemplar.h>
+
+1609148468 c:\users\valen\desktop\bibapp 2.1\include\dvd.h
+	<Ejemplar.h>
+
+1609148730 c:\users\valen\desktop\bibapp 2.1\include\apunte.h
+	<Ejemplar.h>
+
+1609214287 source:c:\users\valen\desktop\bibapp 2.1\src\alquiler.cpp
+	"Alquiler.h"
+
+1609148508 source:c:\users\valen\desktop\bibapp 2.1\src\apunte.cpp
+	"Apunte.h"
+
+1609214742 source:c:\users\valen\desktop\bibapp 2.1\src\biblioteca.cpp
+	"Biblioteca.h"
+	<iterator>
+
+1609148066 source:c:\users\valen\desktop\bibapp 2.1\src\dvd.cpp
+	"Dvd.h"
+
+1607601626 source:c:\users\valen\desktop\bibapp 2.1\src\ejemplar.cpp
+	"Ejemplar.h"
+
+1609219781 source:c:\users\valen\desktop\bibapp 2.1\src\fecha.cpp
+	"Fecha.h"
+
+1608626092 source:c:\users\valen\desktop\bibapp 2.1\src\libro.cpp
+	"Libro.h"
+
+1609220146 source:c:\users\valen\desktop\bibapp 2.1\src\menu.cpp
+	"Menu.h"
+
+1609156022 source:c:\users\valen\desktop\bibapp 2.1\src\persona.cpp
+	"Persona.h"
+
+1609147972 source:c:\users\valen\desktop\bibapp 2.1\src\revista.cpp
+	"Revista.h"
+
+1609155988 source:c:\users\valen\desktop\bibapp 2.1\src\ubicacion.cpp
+	"Ubicacion.h"
+
+1609249300 source:c:\users\valen\desktop\bibapp 2.3\main.cpp
+	<iostream>
+	"Ejemplar.h"
+	"Libro.h"
+	"Biblioteca.h"
+	"Menu.h"
+	<cstdlib>
+
+1608569546 c:\users\valen\desktop\bibapp 2.3\include\ejemplar.h
+	<string>
+	"Fecha.h"
+
+1609219233 c:\users\valen\desktop\bibapp 2.3\include\fecha.h
+	<iostream>
+	<ctime>
+
+1608533036 c:\users\valen\desktop\bibapp 2.3\include\libro.h
+	<Ejemplar.h>
+	"Persona.h"
+	<string>
+	"Fecha.h"
+
+1609210480 c:\users\valen\desktop\bibapp 2.3\include\persona.h
+	<iostream>
+	"Ubicacion.h"
+	<vector>
+
+1607902010 c:\users\valen\desktop\bibapp 2.3\include\ubicacion.h
+	<iostream>
+
+1609256548 c:\users\valen\desktop\bibapp 2.3\include\biblioteca.h
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<iostream>
+	"Ejemplar.h"
+	"Ubicacion.h"
+	"Persona.h"
+	"Alquiler.h"
+
+1609213534 c:\users\valen\desktop\bibapp 2.3\include\alquiler.h
+	"Fecha.h"
+	"Persona.h"
+	<iostream>
+	<vector>
+	<ctime>
+
+1609248426 c:\users\valen\desktop\bibapp 2.3\include\menu.h
+	"Biblioteca.h"
+	"Persona.h"
+	"Fecha.h"
+	"Ubicacion.h"
+	"Ejemplar.h"
+	"Libro.h"
+	"Revista.h"
+	"Dvd.h"
+	"Apunte.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1609147960 c:\users\valen\desktop\bibapp 2.3\include\revista.h
+	<Ejemplar.h>
+
+1609148468 c:\users\valen\desktop\bibapp 2.3\include\dvd.h
+	<Ejemplar.h>
+
+1609148730 c:\users\valen\desktop\bibapp 2.3\include\apunte.h
+	<Ejemplar.h>
+
+1609214287 source:c:\users\valen\desktop\bibapp 2.3\src\alquiler.cpp
+	"Alquiler.h"
+
+1609148508 source:c:\users\valen\desktop\bibapp 2.3\src\apunte.cpp
+	"Apunte.h"
+
+1609248848 source:c:\users\valen\desktop\bibapp 2.3\src\biblioteca.cpp
+	"Biblioteca.h"
+	<iterator>
+
+1609256821 source:c:\users\valen\desktop\bibapp 2.3\src\dvd.cpp
+	"Dvd.h"
+
+1607601626 source:c:\users\valen\desktop\bibapp 2.3\src\ejemplar.cpp
+	"Ejemplar.h"
+
+1609219781 source:c:\users\valen\desktop\bibapp 2.3\src\fecha.cpp
+	"Fecha.h"
+
+1608626092 source:c:\users\valen\desktop\bibapp 2.3\src\libro.cpp
+	"Libro.h"
+
+1609256511 source:c:\users\valen\desktop\bibapp 2.3\src\menu.cpp
+	"Menu.h"
+
+1609156022 source:c:\users\valen\desktop\bibapp 2.3\src\persona.cpp
+	"Persona.h"
+
+1609147972 source:c:\users\valen\desktop\bibapp 2.3\src\revista.cpp
+	"Revista.h"
+
+1609155988 source:c:\users\valen\desktop\bibapp 2.3\src\ubicacion.cpp
+	"Ubicacion.h"
+
+1609231300 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\main.cpp
+	<iostream>
+	"Ejemplar.h"
+	"Libro.h"
+	"Biblioteca.h"
+	"Menu.h"
+	<cstdlib>
+
+1608551546 c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\include\ejemplar.h
+	<string>
+	"Fecha.h"
+
+1609201232 c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\include\fecha.h
+	<iostream>
+	<ctime>
+
+1608515036 c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\include\libro.h
+	<Ejemplar.h>
+	"Persona.h"
+	<string>
+	"Fecha.h"
+
+1609192480 c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\include\persona.h
+	<iostream>
+	"Ubicacion.h"
+	<vector>
+
+1607884010 c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\include\ubicacion.h
+	<iostream>
+
+1609238548 c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\include\biblioteca.h
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<iostream>
+	"Ejemplar.h"
+	"Ubicacion.h"
+	"Persona.h"
+	"Alquiler.h"
+
+1609195534 c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\include\alquiler.h
+	"Fecha.h"
+	"Persona.h"
+	<iostream>
+	<vector>
+	<ctime>
+
+1609230426 c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\include\menu.h
+	"Biblioteca.h"
+	"Persona.h"
+	"Fecha.h"
+	"Ubicacion.h"
+	"Ejemplar.h"
+	"Libro.h"
+	"Revista.h"
+	"Dvd.h"
+	"Apunte.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1609129960 c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\include\revista.h
+	<Ejemplar.h>
+
+1609130468 c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\include\dvd.h
+	<Ejemplar.h>
+
+1609130730 c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\include\apunte.h
+	<Ejemplar.h>
+
+1609196286 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\src\alquiler.cpp
+	"Alquiler.h"
+
+1609130508 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\src\apunte.cpp
+	"Apunte.h"
+
+1609230848 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\src\biblioteca.cpp
+	"Biblioteca.h"
+	<iterator>
+
+1609238820 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\src\dvd.cpp
+	"Dvd.h"
+
+1607583626 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\src\ejemplar.cpp
+	"Ejemplar.h"
+
+1609201780 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\src\fecha.cpp
+	"Fecha.h"
+
+1608608092 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\src\libro.cpp
+	"Libro.h"
+
+1609238510 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\src\menu.cpp
+	"Menu.h"
+
+1609138022 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\src\persona.cpp
+	"Persona.h"
+
+1609129972 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\src\revista.cpp
+	"Revista.h"
+
+1609137988 source:c:\users\escritorio\desktop\bibapp 2.5-20210118t191435z-001\bibapp 2.5\src\ubicacion.cpp
+	"Ubicacion.h"
+
+1611708672 source:c:\users\escritorio\desktop\bib\bibapp 2.5\src\alquiler.cpp
+	"Alquiler.h"
+
+1611695979 c:\users\escritorio\desktop\bib\bibapp 2.5\include\alquiler.h
+	"Fecha.h"
+	"Persona.h"
+	<iostream>
+	<vector>
+	<ctime>
+
+1611589384 c:\users\escritorio\desktop\bib\bibapp 2.5\include\fecha.h
+	<iostream>
+	<ctime>
+
+1611685806 c:\users\escritorio\desktop\bib\bibapp 2.5\include\persona.h
+	<iostream>
+	"Ubicacion.h"
+	<vector>
+
+1611587523 c:\users\escritorio\desktop\bib\bibapp 2.5\include\ubicacion.h
+	<iostream>
+
+1611717519 source:c:\users\escritorio\desktop\bib\bibapp 2.5\src\apunte.cpp
+	"Apunte.h"
+
+1611589035 c:\users\escritorio\desktop\bib\bibapp 2.5\include\apunte.h
+	<Ejemplar.h>
+
+1611589752 c:\users\escritorio\desktop\bib\bibapp 2.5\include\ejemplar.h
+	<string>
+	"Fecha.h"
+
+1611716834 source:c:\users\escritorio\desktop\bib\bibapp 2.5\src\biblioteca.cpp
+	"Biblioteca.h"
+	<iterator>
+	<fstream>
+
+1611716651 c:\users\escritorio\desktop\bib\bibapp 2.5\include\biblioteca.h
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<iostream>
+	"Ejemplar.h"
+	"Ubicacion.h"
+	"Persona.h"
+	"Alquiler.h"
+	"Libro.h"
+	"Revista.h"
+	"Dvd.h"
+	"Apunte.h"
+
+1611707517 source:c:\users\escritorio\desktop\bib\bibapp 2.5\src\dvd.cpp
+	"Dvd.h"
+
+1611589855 c:\users\escritorio\desktop\bib\bibapp 2.5\include\dvd.h
+	<Ejemplar.h>
+
+1607583626 source:c:\users\escritorio\desktop\bib\bibapp 2.5\src\ejemplar.cpp
+	"Ejemplar.h"
+
+1611707343 source:c:\users\escritorio\desktop\bib\bibapp 2.5\src\fecha.cpp
+	"Fecha.h"
+
+1611707836 source:c:\users\escritorio\desktop\bib\bibapp 2.5\src\libro.cpp
+	"Libro.h"
+
+1611589966 c:\users\escritorio\desktop\bib\bibapp 2.5\include\libro.h
+	<Ejemplar.h>
+	"Persona.h"
+	<string>
+	"Fecha.h"
+
+1611709422 source:c:\users\escritorio\desktop\bib\bibapp 2.5\src\persona.cpp
+	"Persona.h"
+
+1611717584 source:c:\users\escritorio\desktop\bib\bibapp 2.5\src\revista.cpp
+	"Revista.h"
+
+1611590213 c:\users\escritorio\desktop\bib\bibapp 2.5\include\revista.h
+	<Ejemplar.h>
+
+1611707686 source:c:\users\escritorio\desktop\bib\bibapp 2.5\src\ubicacion.cpp
+	"Ubicacion.h"
+
+1611716051 source:c:\users\escritorio\desktop\bib\bibapp 2.5\main.cpp
+	<iostream>
+	"Ejemplar.h"
+	"Libro.h"
+	"Biblioteca.h"
+	"Menu.h"
+	<cstdlib>
+
+1611580843 c:\users\escritorio\desktop\bib\bibapp 2.5\include\menu.h
+	"Biblioteca.h"
+	"Persona.h"
+	"Fecha.h"
+	"Ubicacion.h"
+	"Ejemplar.h"
+	"Libro.h"
+	"Revista.h"
+	"Dvd.h"
+	"Apunte.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1611716760 source:c:\users\escritorio\desktop\bib\bibapp 2.5\src\menu.cpp
+	"Menu.h"
+
+1611698050 source:c:\users\valen\desktop\bibapp\bibapp3.0\main.cpp
+	<iostream>
+	"Ejemplar.h"
+	"Libro.h"
+	"Biblioteca.h"
+	"Menu.h"
+	<cstdlib>
+
+1611571752 c:\users\valen\desktop\bibapp\bibapp3.0\include\ejemplar.h
+	<string>
+	"Fecha.h"
+
+1611571384 c:\users\valen\desktop\bibapp\bibapp3.0\include\fecha.h
+	<iostream>
+	<ctime>
+
+1611571966 c:\users\valen\desktop\bibapp\bibapp3.0\include\libro.h
+	<Ejemplar.h>
+	"Persona.h"
+	<string>
+	"Fecha.h"
+
+1611667806 c:\users\valen\desktop\bibapp\bibapp3.0\include\persona.h
+	<iostream>
+	"Ubicacion.h"
+	<vector>
+
+1611569522 c:\users\valen\desktop\bibapp\bibapp3.0\include\ubicacion.h
+	<iostream>
+
+1611698650 c:\users\valen\desktop\bibapp\bibapp3.0\include\biblioteca.h
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+	<iostream>
+	"Ejemplar.h"
+	"Ubicacion.h"
+	"Persona.h"
+	"Alquiler.h"
+	"Libro.h"
+	"Revista.h"
+	"Dvd.h"
+	"Apunte.h"
+
+1612032030 c:\users\valen\desktop\bibapp\bibapp3.0\include\alquiler.h
+	"Fecha.h"
+	"Persona.h"
+	<vector>
+	<ctime>
+	<iostream>
+	<string>
+
+1611572212 c:\users\valen\desktop\bibapp\bibapp3.0\include\revista.h
+	<Ejemplar.h>
+
+1611571854 c:\users\valen\desktop\bibapp\bibapp3.0\include\dvd.h
+	<Ejemplar.h>
+
+1611571034 c:\users\valen\desktop\bibapp\bibapp3.0\include\apunte.h
+	<Ejemplar.h>
+
+1611562842 c:\users\valen\desktop\bibapp\bibapp3.0\include\menu.h
+	"Biblioteca.h"
+	"Persona.h"
+	"Fecha.h"
+	"Ubicacion.h"
+	"Ejemplar.h"
+	"Libro.h"
+	"Revista.h"
+	"Dvd.h"
+	"Apunte.h"
+	<iostream>
+	<cstdlib>
+	<string>
+
+1611690672 source:c:\users\valen\desktop\bibapp\bibapp3.0\src\alquiler.cpp
+	"Alquiler.h"
+
+1611699518 source:c:\users\valen\desktop\bibapp\bibapp3.0\src\apunte.cpp
+	"Apunte.h"
+
+1611698834 source:c:\users\valen\desktop\bibapp\bibapp3.0\src\biblioteca.cpp
+	"Biblioteca.h"
+	<iterator>
+	<fstream>
+
+1611689516 source:c:\users\valen\desktop\bibapp\bibapp3.0\src\dvd.cpp
+	"Dvd.h"
+
+1607565626 source:c:\users\valen\desktop\bibapp\bibapp3.0\src\ejemplar.cpp
+	"Ejemplar.h"
+
+1611689342 source:c:\users\valen\desktop\bibapp\bibapp3.0\src\fecha.cpp
+	"Fecha.h"
+
+1611689836 source:c:\users\valen\desktop\bibapp\bibapp3.0\src\libro.cpp
+	"Libro.h"
+
+1611698760 source:c:\users\valen\desktop\bibapp\bibapp3.0\src\menu.cpp
+	"Menu.h"
+
+1611691422 source:c:\users\valen\desktop\bibapp\bibapp3.0\src\persona.cpp
+	"Persona.h"
+
+1611699584 source:c:\users\valen\desktop\bibapp\bibapp3.0\src\revista.cpp
+	"Revista.h"
+
+1611689686 source:c:\users\valen\desktop\bibapp\bibapp3.0\src\ubicacion.cpp
+	"Ubicacion.h"
+

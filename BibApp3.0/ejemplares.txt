@@ -1,0 +1,62 @@
+5
+1
+1
+2021
+Apunte
+Hola mundo
+4
+Casa
+ESP
+156
+Maxi C
+Medicina
+11
+11
+2002
+Revista
+Auto magazine
+10
+Cars world
+ING
+1
+uno
+asd987ttyu
+10
+10
+2001
+Libro
+IT
+111
+penguin
+ESP
+500
+Stephen King
+2394af532
+EEUU
+Terror
+Pegado
+10
+10
+2004
+Libro
+1984
+112
+OTRA EDITORIAL
+ING
+250
+G. Orwell
+d3425235sg5
+Inglarerra
+Ciencia Ficcion
+COSIDO
+4
+5
+1982
+Dvd
+The Thing
+444
+Universal
+ingles
+120
+Terror
+español, frances
